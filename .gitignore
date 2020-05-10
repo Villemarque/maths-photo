@@ -1,0 +1,8 @@
+.env
+discord.log
+discord_debug.log
+
+n_venv/
+
+#Mac OS X
+.DS_Store
