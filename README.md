@@ -54,7 +54,7 @@ $ python3 -O bot.py
 
 Une fois le bot en ligne, il transferra automatiquement les images postées dans le salon source vers le serveur de stockage des images. 
 
-Il existe aussi une commande (à poster dans le salon source, sous la syntaxe suivante `!retro <Durée>` qui permet va chercher dans l'historique du salon du tous les message entre maintenant et la date indiqué (temps relatif), et transfère les photos prisent durant cet intervalle, pratique lorsque celui qui gère le bot n'a pas pu suivre un cours !
+Il existe aussi une commande (à poster dans le salon source, sous la syntaxe suivante `$retro <Durée>` qui permet va chercher dans l'historique du salon du tous les message entre maintenant et la date indiqué (temps relatif), et transfère les photos prisent durant cet intervalle, pratique lorsque celui qui gère le bot n'a pas pu suivre un cours !
 
 Examples:
 * `$retro 7d` -> Transfère toutes les photos prisent il y a moins d'une semaine
